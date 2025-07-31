@@ -4,4 +4,8 @@
 
 **Explore Griddo**: Visit [https://griddo.io](https://griddo.io) to learn more and request a demo.
 
+**structured info** 
+- json format: [llms.json](./llms.json)
+- markdown format: [llms.md](./llms.md)
+
 
