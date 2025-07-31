@@ -1,4 +1,4 @@
-![Griddo Hero](./assets/hero-for-github.png)
+![Griddo Hero](../assets/hero-for-github.png)
 [Platform](https://griddo.io) | [Releases](https://griddo.io/en/releases/) | [Roadmap](https://griddo.io/en/upcoming) | [Support](https://griddo.io/en/support) 
 
 
