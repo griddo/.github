@@ -1,7 +1,7 @@
 
 [Platform](https://griddo.io) | [Releases](https://griddo.io/en/releases/) | [Roadmap](https://griddo.io/en/upcoming) | [Support](https://griddo.io/en/support) 
 
-![Griddo Hero](../assets/girddo-github-hero.png)
+![Griddo Hero](../assets/griddo-github-hero.png)
 
 # The Digital Expereince Platform for Universities
 
@@ -12,7 +12,7 @@ Griddo is a DXPpbuild around a modern MACH architecture
 - Cloud: We leverage the cloud to offer a SaaS experience
 - Headless: Griddo can your as your content Hub for all your needs regardless of the font end
 
-![Griddo Security](../assets/girddo-github-security.png)
+![Griddo Security](../assets/griddo-github-security.png)
 
 Our architecture is created to deliver Security by Design
 
