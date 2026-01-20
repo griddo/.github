@@ -13,8 +13,9 @@ Trusted by leading private Universities like:
 - [IE University](https://ie.edu)
 - [Universidad Europea](https://universidadeuropea.com) 
 - [Universidad Pontificia de Comillas](https://comillas.edu)
+- [Universidad de Nebrija](https://nebrija.com)
 - [CUNEF](https://cunef.edu) 
-- [Universidad Católica del Maule](https://)
+- [Universidad Católica del Maule](https://ucm.cl)
 - [IPAM](https://www.ipam.pt)
 - [IADE](https://www.iade.europeia.pt)
 - [Centro de Estudios Garrigues](https://www.centrogarrigues.com/)
@@ -93,6 +94,17 @@ From a blank canvas to a live page, design and publish your content seamlessly w
     - Themes to adapt to any brand structure
     - Adaptive modules with rich variants
 
+- **Griddo File Drive**     
+    - Manage all your PDFs and digital-paper forms in one place
+    - Organize your documents in folders with granular permissions
+    - Replace documents and keep the page links. 
+
+- **Griddo Image Galery - Digital Assets Manager**     
+    - Manage all your images forms in one place
+    - Auto optimization of formats (webp, avif,...)
+    - Audit image use, pero page.
+    - Replace images and keep the page links. 
+    - Auto tagging
 
 ## Benefits for Higher Education
 

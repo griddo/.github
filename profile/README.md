@@ -21,6 +21,9 @@ We deliver to the web with a SSG aproach to minimize the surface of attacks and 
 - No DDoS, no SQL injections
 - Edge delivery right to the CDN with WAF protection
 
+![Griddo Security](../assets/griddo-github-integration.png)
+
+Connect with any system and automaticaly udapte data everywhere
 
 **Explore Griddo**: Visit [https://griddo.io](https://griddo.io) to learn more and request a demo.
 
