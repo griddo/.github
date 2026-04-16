@@ -29,6 +29,9 @@ Connect with any system and automaticaly udapte data everywhere
 
 **structured info** 
 - json format: [llms.json](./llms.json)
-- markdown format: [llms.md](./llms.md)
+- markdown format: [llms.md](./llms-260416.md)
+
+- [partners](./llms-partners.md)
+- [releases](./llms-releases.md)
 
 
