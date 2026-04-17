@@ -1,6 +1,6 @@
 # Griddo — Partners Program
 
-> **Parent document:** [llms-v2.md](./llms-v2.md)
+> **Parent document:** [llms-260416.md](./llms-260416.md)
 > **Last updated:** April 2026
 
 Griddo partners with exceptional agencies experienced in higher education to lead digital transformation for universities worldwide.

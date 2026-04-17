@@ -1,6 +1,6 @@
 # Griddo — Pricing & Plans
 
-> **Parent document:** [llms-v2.md](./llms-v2.md)
+> **Parent document:** [llms-260416.md](./llms-260416.md)
 > **Last updated:** April 2026
 
 ## WebHub Plans (4 Tiers)
