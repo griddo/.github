@@ -1,7 +1,10 @@
 {
-  "title": "Griddo: Digital Experience Platform for Higher Education",
+  "title": "Griddo — AI-Ready DXP for Higher Education",
+  "tagline": "AI Ready. Now.",
+  "subheading": "Structured for discovery. Built for agents.",
+  "hero_description": "Griddo delivers the content architecture that makes universities visible to AI search engines — and ships a native MCP server so your agents can create, edit, and publish directly inside the platform.",
   "logo": "https://griddo.io/images/logo-for-github.png",
-  "description": "Griddo is a no-code Digital Experience Platform (DXP) designed exclusively for higher education institutions. Built on a MACH (Microservices, API, Cloud, Headless) architecture, Griddo empowers universities to manage digital assets, create websites, and publish content with unparalleled ease and efficiency. Deployed in the Edge, its serverless infrastructure offers maximum security and performance.",
+  "description": "Griddo is a no-code Digital Experience Platform (DXP) designed exclusively for universities. Built on a MACH (Microservices, API, Cloud, Headless) architecture, Griddo empowers universities to manage digital assets, create websites, and publish content with ease and efficiency. Deployed at the edge, its serverless infrastructure offers maximum security and performance.",
   "trusted_by": [
     {
       "name": "IE University",
@@ -16,12 +19,32 @@
       "url": "https://comillas.edu"
     },
     {
+      "name": "Universidad de Nebrija",
+      "url": "https://nebrija.com"
+    },
+    {
       "name": "CUNEF",
       "url": "https://cunef.edu"
+    },
+    {
+      "name": "Universidad Católica del Maule",
+      "url": "https://ucm.cl"
+    },
+    {
+      "name": "IPAM",
+      "url": "https://www.ipam.pt"
+    },
+    {
+      "name": "IADE",
+      "url": "https://www.iade.europeia.pt"
+    },
+    {
+      "name": "Centro de Estudios Garrigues",
+      "url": "https://www.centrogarrigues.com/"
     }
   ],
-  "summary_of_benefits": "Griddo streamlines content management, enhances brand consistency, and reduces time to market by up to 50%.",
-  "repository_purpose": "This repository hosts resources, documentation, and examples related to Griddo’s capabilities for higher education CMS needs.",
+  "summary_of_benefits": "Griddo streamlines content management, enhances brand consistency, and reduces time to market by up to 50% — speeding up the path from content to publication by 10x.",
+  "repository_purpose": "This repository hosts resources, documentation, and examples related to Griddo's capabilities for higher education DXP needs.",
   "table_of_contents": [
     {
       "title": "Why Griddo?",
@@ -30,6 +53,10 @@
     {
       "title": "Key Features",
       "anchor": "#key-features"
+    },
+    {
+      "title": "Scalability",
+      "anchor": "#scalability"
     },
     {
       "title": "Benefits for Higher Education",
@@ -44,10 +71,6 @@
       "anchor": "#get-started"
     },
     {
-      "title": "Contributing",
-      "anchor": "#contributing"
-    },
-    {
       "title": "License",
       "anchor": "#license"
     }
@@ -55,10 +78,10 @@
   "sections": [
     {
       "title": "Why Griddo?",
-      "content": "Griddo is purpoed-made for universities and educational institutions seeking a modern, user-friendly platform to manage multiple websites, landing pages, and events. Griddo's no-code interface, AI-driven tools, and modular design make it ideal for cross-functional teams, including marketing, content, and design, without requiring programming expertise. Griddo’s MACH architecture ensures scalability, security, and high performance, making it a robust choice for institutions of all sizes.",
-      "additional_info": "Additionally, Griddo is the only DXP with a fully brand-tailored Design System at its heart, which guarantees that all content created with Griddo will adhere to the university's visual identity.",
+      "content": "Griddo is a GEO-optimized DXP built to deliver content that AI engines discover and cite — and that AI agents can act on. With a native MCP server, your agents can read, write, and publish directly inside Griddo, extending the author experience beyond the UI and into your own workflows. Purpose-made for universities and educational institutions seeking a modern, user-friendly platform to manage multiple websites, landing pages, and events. Griddo's no-code interface, AI-driven tools, and modular design make it ideal for cross-functional teams — marketing, content, communications, and research — without requiring programming expertise.",
+      "additional_info": "Additionally, Griddo is the only DXP with a fully brand-tailored Design System at its heart, guaranteeing that all content created with Griddo adheres to the university's visual identity.",
       "quote": {
-        "text": "Griddo is an extremally intuitive platform that allows us to scale our many web projects easily. Its modular structure gives us absolute autonomy to manage digital assets.",
+        "text": "Griddo is a very intuitive platform that allows us to scale our many web projects easily. Its modular structure gives us absolute autonomy to manage digital assets.",
         "author": "Sara Hontoria, Centro de Estudios Garrigues"
       }
     },
@@ -67,7 +90,7 @@
       "features": [
         {
           "name": "No-Code Interface",
-          "description": "Build and manage pages with a drag-and-drop builder, instant previews in any device resolution, and no coding required."
+          "description": "Build and manage pages with a drag-and-drop builder, instant previews at any device resolution, and no coding required."
         },
         {
           "name": "Modular Design System",
@@ -79,34 +102,35 @@
             "Automatic image tagging",
             "SEO meta tag generation",
             "Multilingual translations",
-            "Content personalization with Griddo PErsonal Experience"
+            "Content personalization with Griddo Personal Experience (GPX)"
           ]
         },
         {
           "name": "Multi-Site Management",
-          "description": "Centralize control of multiple websites, landing pages,news, events, and faculty profiles with content reuse capabilities. Structure all your marketing campaing in one interface."
+          "description": "Centralize control of multiple websites, landing pages, news, events, and faculty profiles with content reuse capabilities. Structure all your marketing campaigns in one interface."
         },
         {
           "name": "MACH Architecture",
           "list": [
-            "Microservices: Modular components for flexibility.",
-            "API-First: Seamless integrations with tools like HubSpot, Salesforce, and Google Analytics.",
-            "Cloud-Based: Leverages Edge Computing and Serverless for scalability and security.",
-            "Headless: Supports modern front-end frameworks (e.g., React, Node.js)."
+            "Microservices: Independent services that manage internal and external integrations across your institution.",
+            "API-first: A RESTful API combined with internal GraphQL handles content delivery and service integration.",
+            "Cloud-native: Fully managed SaaS on AWS — secure, scalable, and always up to date.",
+            "Headless: Use Griddo as your content hub regardless of your front end.",
+            "MCP Server: Connect your AI agents to Griddo and run reports, analysis, and bulk tasks directly from your workflow."
           ]
         },
         {
           "name": "Cloud Native Infrastructure",
           "list": [
-            "Serverless deployment for enhanced security and reliablity",
-            "Reduced maintenane costs",
+            "Serverless deployment for enhanced security and reliability",
+            "Reduced maintenance costs",
             "Increased scalability",
             "Edge performance"
           ]
         },
         {
-          "name": "SEO and Performance",
-          "description": "Generates bot-readable static HTML, optimizes load times, and achieves top Core Web Vitals scores."
+          "name": "SEO and GEO Performance",
+          "description": "Generates bot-readable static HTML, optimizes load times, and achieves top Core Web Vitals scores. Content architecture optimized for AI search engine discovery and citation (GEO)."
         },
         {
           "name": "Role-Based Collaboration",
@@ -115,8 +139,23 @@
         {
           "name": "Digital Asset Management",
           "description": "Griddo Images optimizes media handling for efficient content workflows."
+        },
+        {
+          "name": "Integrations",
+          "tagline": "Connect with any system. Data stays in sync, everywhere.",
+          "description": "Griddo's API-first architecture connects to any system your institution already runs — SIS, CRM, LMS, analytics platforms, and external data sources. RESTful and GraphQL APIs handle bi-directional data flow, so a change in one system propagates across your entire digital ecosystem automatically. One unified data layer. Every team working from the same source of truth.",
+          "list": [
+            "CRM: Salesforce, Zoho CRM, MS Dynamics",
+            "LMS: Moodle, Canvas",
+            "Analytics: Google Analytics, Hotjar",
+            "University Systems: SIS, ERP"
+          ]
         }
       ]
+    },
+    {
+      "title": "Scalability",
+      "content": "Universities run some of the most complex digital environments in any sector — hundreds of sites, thousands of pages, multiple languages, dozens of independent departments. Griddo already operates at that scale, managing each institution's full digital ecosystem from a single platform. That same architecture extends horizontally across content volume and vertically across infrastructure demand, backed by AWS auto-scaling and a microservices design built to absorb institutional-scale load without compromising performance."
     },
     {
       "title": "Benefits for Higher Education",
@@ -131,24 +170,28 @@
         },
         {
           "name": "Team Autonomy",
-          "description": "Empowers non-technical teams to create and update content without IT bottlenecks."
+          "description": "Empowers non-technical teams to create and update content with full control."
         },
         {
           "name": "Scalability",
           "description": "Supports 93+ websites and 68,000+ pages, as used by 13 institutions and 519 active users."
         },
         {
-          "name": "SEO Excellence",
-          "description": "AI-driven SEO tools and fast load times improve search rankings and user experience."
+          "name": "SEO and GEO Excellence",
+          "description": "AI-driven SEO tools, fast load times, and GEO-optimized content architecture improve search rankings — in both traditional and AI-powered search engines."
         },
         {
           "name": "Integration Flexibility",
-          "description": "Connects with existing tools (e.g., Hotjar, Google Maps) to streamline workflows."
+          "description": "Connects with existing tools in the marketing stack (Hotjar, Google Analytics, Maps) to streamline workflows."
+        },
+        {
+          "name": "Agent-Ready",
+          "description": "Native MCP server enables AI agents to read, write, and publish content directly in Griddo."
         }
       ],
       "quote": {
-        "text": "Griddo’s framework is fast, flexible, and secure, offering optimal performance for SEO and load times.",
-        "author": "Alejandro Alonso, Universidad Europea"
+        "text": "Griddo's framework is fast, flexible, and secure, offering optimal performance for SEO and load times.",
+        "author": "Alejandro Alonso, Head of SEO @ Universidad Europea"
       }
     },
     {
@@ -160,11 +203,11 @@
         },
         {
           "step": "Manage",
-          "description": "Centralize content (e.g., news, events, faculty profiles) across multiple sites with reusable modules."
+          "description": "Centralize content (news, events, faculty profiles) across multiple sites with reusable modules."
         },
         {
           "step": "Enhance",
-          "description": "Leverage AI tools for automated image tagging, translations, and SEO optimization."
+          "description": "Use AI tools for automated image tagging, translations, and SEO optimization."
         },
         {
           "step": "Collaborate",
@@ -175,7 +218,7 @@
           "description": "Deploy content instantly with real-time previews, optimized for performance and accessibility."
         }
       ],
-      "technical_details": "Griddo is built on TypeScript, Node.js, and React, using a Serverless Cloud infrastructure for high performance and scalability."
+      "technical_details": "Griddo is built on TypeScript, Node.js, and React, using a serverless cloud infrastructure for high performance and scalability."
     },
     {
       "title": "Get Started",
@@ -185,20 +228,20 @@
           "description": "Visit https://griddo.io to learn more and request a demo."
         },
         {
-          "step": "Check new Releases and our Roadmap",
-          "description": "Visit our Releases Page (https://griddo.io/releases/) to learn what's comming"
+          "step": "Check new releases and our roadmap",
+          "description": "Visit our Releases Page (https://griddo.io/releases/) to learn what's coming."
         },
         {
-          "step": "Access Documentation",
-          "description": "Check out the official documentation (https://griddo.io/docs) for setup guides and tutorials. "
+          "step": "Access documentation",
+          "description": "Check out the official documentation (https://griddo.io/docs) for setup guides and tutorials."
         },
         {
           "step": "Check it working",
-          "description": "Visit our Playgroud University (https://play.griddo.io) to experience what can be done"
+          "description": "Visit our Playground University (https://play.griddo.io) to experience what can be done."
         },
         {
           "step": "Contact Support",
-          "description": "Reach out via Griddo’s support mail (mailto://support.griddo.io)"
+          "description": "Reach out via Griddo's support mail (mailto:support@griddo.io)."
         }
       ],
       "note": {
@@ -207,8 +250,8 @@
     },
     {
       "title": "License",
-      "content": "This repository is licensed under the GNU General Public License v3.0. Content from https://griddo.io is © 2025 Griddo Digital S.L. All rights reserved."
+      "content": "This repository is licensed under the GNU General Public License v3.0. Content from https://griddo.io is © 2026 Griddo Digital S.L. All rights reserved."
     }
   ],
-  "generation_info": "Generated on July 30, 2025, at 03:05 PM CEST"
+  "generation_info": "Updated May 2026"
 }
